@@ -1,0 +1,199 @@
+{
+  "startDate": "2016-09-09T09:00:00+03:00",
+  "endDate": "2016-09-10T19:00:00+03:00",
+  "analytics": {
+    "prod": "UA-43643469-8",
+    "dev": "UA-43643469-9"
+  },
+  "organizer": {
+    "name": "GDG Düsseldorf",
+    "twitter": "gdgduesseldorf"
+  },
+  "webapp": {
+    "shortName": "DevFest",
+    "themeColor": "#F57C00",
+    "backgroundColor": "#F57C00"
+  },
+  "firebase": {
+    "name": "gdgdus-5c6dc",
+    "domain": "duesseldorf.devfest.de",
+    "database": "https://gdgdus-5c6dc.firebaseio.com",
+    "api": "AIzaSyALDa2D7CMhK_wt2VkET1MaJuQXYVUJd2I",
+    "userSessionsPath": "/userSessions",
+    "ratingsPath": "/ratings",
+    "indexedDbSession": "hoverboard"
+  },
+  "dateFormat": {
+    "locale": "en-US",
+    "blog": {
+      "month": "short",
+      "day": "numeric",
+      "year": "numeric"
+    }
+  },
+  "enableSessionsRating": true,
+  "location": {
+    "apiKey": "",
+    "name": "Sipgate",
+    "address": "Gladbacher Str. 74, 40219 Düsseldorf",
+    "link": "http://www.sipgate.de",
+    "pointer": {
+      "latitude": 51.212235,
+      "longitude": 6.755673,
+      "zoom": 15
+    },
+    "mapCenter": {
+      "latitude": 51.211771,
+      "longitude": 6.763699
+    },
+    "images": [
+      "/images/backgrounds/Sipgate_1.JPG",
+      "/images/backgrounds/Sipgate_2.JPG",
+      "/images/backgrounds/Sipgate_3.JPG",
+      "/images/backgrounds/Sipgate_4.JPG"
+    ]
+  },
+  "pages": {
+    "home": {
+      "title": "Home",
+      "headerSettings": {
+        "backgroundColor": "#FF9800",
+        "backgroundImage": "/images/backgrounds/header_2.jpg",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    },
+    "blog": {
+      "title": "Blog",
+      "headerSettings": {
+        "backgroundColor": "#03a9f4",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "title": "Speakers",
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "title": "Schedule",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "title": "Team",
+      "headerSettings": {
+        "backgroundColor": "#009688",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "title": "Cod of Conduct",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  },
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/"
+    }
+  ],
+  "url": "https://hoverboard.firebaseapp.com/",
+  "mailchimp": {
+    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
+    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+  },
+  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "disqusShortName": "",
+  "languages": [
+    {
+      "name": "English",
+      "key": "en"
+    }
+  ],
+  "footerBlocks": [
+    {
+      "title": "for-visitors",
+      "links": [
+        {
+          "text": "team",
+          "url": "/team/"
+        },
+        {
+          "text": "cod",
+          "url": "/cod/"
+        },
+        {
+          "text": "google-developers",
+          "url": "https://developers.google.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-14",
+          "url": "http://www.gdg-dus.de/DevFest2014/",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "info@gdg-dus.de",
+        "url": "mailto:info@gdg-dus.de"
+      }
+    ]
+  },
+  "teamPageTitle": "team-page-title",
+  "teamPageText": "team-page-text",
+  "hashtag": "DevFestDus",
+  "social": [
+    {
+      "name": "twitter",
+      "nickname": "gdgduesseldorf",
+      "url": "https://twitter.com/gdgduesseldorf"
+    },
+    {
+      "name": "gplus",
+      "nickname": "+Gdg-dusDe",
+      "url": "https://plus.google.com/+Gdg-dusDe/"
+    }
+  ],
+  "tweetsSource": "/data/tweets.json",
+  "gallery": {
+    "albumUrl": "https://drive.google.com/drive/folders/0B8EwTlbftTljeDNGeGE1RVdDMEE?usp=sharing&sort=1",
+    "photos": {
+      "big": "/images/backgrounds/GDG_Dus_Devfest_1.JPG",
+      "small": [
+        "/images/backgrounds/GDG_Dus_Devfest_2.JPG",
+        "/images/backgrounds/GDG_Dus_Devfest_3.JPG"
+      ]
+    }
+  },
+  "callToAction": {
+    "videoTitle": "action-title",
+    "videoId": "DfMnJAzOFng"
+  }
+}

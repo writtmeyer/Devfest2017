@@ -1,0 +1,16 @@
+Another edition of the GDG Düsseldorf devfest is coming into town! This year it's on September, 9th and September, 10th.
+
+It's a developer conference dealing delving into all kind of Google technology.
+
+Some topics you can expect talks about:
+
+Google Cloud
+Tensorflow and other artificial intelligence solutions
+Android
+Android Things
+Google Assistant & Google Home
+Angular, Polymer and Progressive Web Apps
+
+All in all we expect more than twenty talks.
+
+And: We are always looking for contributions. So do no hesitate to propose a talk to us. Never mind if it doesn't fit the topics mentioned above. We are not narrow-minded :-) You can find the Call for Proposals on PaperCall: https://www.papercall.io/devfest2017

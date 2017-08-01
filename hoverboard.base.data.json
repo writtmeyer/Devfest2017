@@ -1,0 +1,526 @@
+{
+  "partners": [
+    {
+      "title": "main-organizer",
+      "logos": [
+        {
+          "name": "GDG Düsseldorf",
+          "url": "https://www.gdg-dus.de",
+          "logoUrl": "../images/gdg-logo.svg",
+          "width": 300
+        }
+      ]
+    },
+    {
+      "title": "general-partner",
+      "logos": [
+        {
+          "name": "Google",
+          "url": "https://www.google.com.ua/intl/en/about/",
+          "logoUrl": "../images/logos/google.svg"
+        },
+        {
+          "name": "Scaratec IT",
+          "url": "http://www.scaratec.de",
+          "logoUrl": "../images/logos/SCARATEC_Logo.png"
+        },
+        {
+          "name": "Sipgate GmbH",
+          "url": "https://www.sipgate.de",
+          "logoUrl": "../images/logos/sipgate_logo.png"
+        },
+        {
+          "name": "HRS",
+          "url": "https://www.hrs.de",
+          "logoUrl": "../images/logos/logo_hrs_trans.png"
+        }
+      ]
+    }
+  ],
+  "schedule": [
+    {
+      "date": "2016-09-09",
+      "dateReadable": "September 9",
+      "timeslots": [
+        {
+          "endTime": "10:00",
+          "sessions": [
+            [
+              132
+            ]
+          ],
+          "startTime": "09:00"
+        },
+        {
+          "endTime": "10:15",
+          "sessions": [
+            [
+              136
+            ]
+          ],
+          "startTime": "10:00"
+        },
+        {
+          "endTime": "11:00",
+          "sessions": [
+            [
+              139
+            ]
+          ],
+          "startTime": "10:15"
+        },
+        {
+          "endTime": "11:40",
+          "sessions": [
+            [
+              103
+            ],
+            [
+              120
+            ],
+            [
+              109
+            ]
+          ],
+          "startTime": "11:00"
+        },
+        {
+          "endTime": "12:30",
+          "sessions": [
+            [
+              129
+            ],
+            [
+              116
+            ],
+            [
+              109
+            ]
+          ],
+          "startTime": "11:50"
+        },
+        {
+          "endTime": "14:00",
+          "sessions": [
+            [
+              133
+            ]
+          ],
+          "startTime": "12:30"
+        },
+        {
+          "endTime": "14:40",
+          "sessions": [
+            [
+              101
+            ],
+            [
+              118
+            ],
+            [
+              107
+            ]
+          ],
+          "startTime": "14:00"
+        },
+        {
+          "endTime": "15:30",
+          "sessions": [
+            [
+              140
+            ],
+            [
+              126
+            ],
+            [
+              107
+            ]
+          ],
+          "startTime": "14:50"
+        },
+        {
+          "endTime": "16:00",
+          "sessions": [
+            [
+              134
+            ]
+          ],
+          "startTime": "15:30"
+        },
+        {
+          "endTime": "16:40",
+          "sessions": [
+            [
+              105
+            ],
+            [
+              127
+            ],
+            [
+              119
+            ]
+          ],
+          "startTime": "16:00"
+        },
+        {
+          "endTime": "17:30",
+          "sessions": [
+            [
+              112
+            ],
+            [
+              111
+            ],
+            [
+              119
+            ]
+          ],
+          "startTime": "16:50"
+        },
+        {
+          "endTime": "18:20",
+          "sessions": [
+            [
+              106
+            ],
+            [
+              125
+            ],
+            [
+              119
+            ]
+          ],
+          "startTime": "17:40"
+        },
+        {
+          "endTime": "22:30",
+          "sessions": [
+            [
+              137
+            ]
+          ],
+          "startTime": "18:30"
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Main Track"
+        },
+        {
+          "title": "Side Track"
+        }
+      ]
+    },
+    {
+      "date": "2016-09-10",
+      "dateReadable": "September 10",
+      "timeslots": [
+        {
+          "endTime": "10:10",
+          "sessions": [
+            [
+              135
+            ]
+          ],
+          "startTime": "09:30"
+        },
+        {
+          "endTime": "10:50",
+          "sessions": [
+            [
+              114
+            ],
+            [
+              117
+            ],
+            [
+              121
+            ]
+          ],
+          "startTime": "10:10"
+        },
+        {
+          "endTime": "11:40",
+          "sessions": [
+            [
+              122
+            ],
+            [
+              113
+            ],
+            [
+              121
+            ]
+          ],
+          "startTime": "11:00"
+        },
+        {
+          "endTime": "12:30",
+          "sessions": [
+            [
+              104
+            ],
+            [
+              124
+            ],
+            [
+              121
+            ]
+          ],
+          "startTime": "11:50"
+        },
+        {
+          "endTime": "14:00",
+          "sessions": [
+            [
+              133
+            ]
+          ],
+          "startTime": "12:30"
+        },
+        {
+          "endTime": "14:40",
+          "sessions": [
+            [
+              108
+            ],
+            [
+              128
+            ],
+            [
+              102
+            ]
+          ],
+          "startTime": "14:00"
+        },
+        {
+          "endTime": "15:30",
+          "sessions": [
+            [
+              110
+            ],
+            [
+              123
+            ],
+            [
+              102
+            ]
+          ],
+          "startTime": "14:50"
+        },
+        {
+          "endTime": "16:00",
+          "sessions": [
+            [
+              134
+            ]
+          ],
+          "startTime": "15:30"
+        },
+        {
+          "endTime": "16:40",
+          "sessions": [
+            [
+              131
+            ],
+            [
+              140
+            ],
+            [
+              130
+            ]
+          ],
+          "startTime": "16:00"
+        },
+        {
+          "endTime": "17:30",
+          "sessions": [
+            [
+              115
+            ],
+            [
+              140
+            ],
+            [
+              130
+            ]
+          ],
+          "startTime": "16:50"
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Expo hall"
+        },
+        {
+          "title": "Conference hall"
+        },
+        {
+          "title": "Workshops hall"
+        }
+      ]
+    }
+  ],
+  "sessions": {
+    "101": {
+      "complexity": "Beginner",
+      "description": "To be annoounced",
+      "id": 101,
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": [],
+      "title": "To be annoounced"
+    }
+  },
+  "speakers": [
+    null
+  ],
+  "team": [
+    {
+      "title": "Core Team",
+      "members": [
+        {
+          "name": "Randy Gupta",
+          "photoUrl": "/images/people/RandyGupta.jpg",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/+RandyGupta",
+              "name": "Google+"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/RandyGupta",
+              "name": "Twitter"
+            },
+            {
+              "icon": "website",
+              "link": "http://it.scaratec.com/",
+              "name": "Website"
+            }
+          ],
+          "title": "Senior Software Architect JEE"
+        },
+        {
+          "name": "Jens Hauke",
+          "photoUrl": "/images/people/JensHauke.jpg",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/+JensHauke",
+              "name": "Google+"
+            }
+          ],
+          "title": "Software Developer - Linux and Android"
+        },
+        {
+          "name": "Resul Kocyigit",
+          "photoUrl": "/images/people/ResulKocyigit.jpg",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/+ResulKocyigit",
+              "name": "G+"
+            }
+          ],
+          "title": "Android Developer"
+        },
+        {
+          "name": "Parththipan Thaniperumkarunai",
+          "photoUrl": "/images/people/Parthy.jpg",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/110646410849485506802",
+              "name": "G+"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/metheparthy",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://www.twitter.com/the-parthy",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/theparthy",
+              "name": "gitHub"
+            },
+            {
+              "icon": "website",
+              "link": "https://parthy.net",
+              "name": "Website"
+            }
+          ],
+          "title": "Web Developer"
+        },
+        {
+          "name": "Christopher Borchert",
+          "photoUrl": "/images/people/ChristopherB.jpg",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/+ChristopherBDoktorDoener",
+              "name": "G+"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/DoktorDoener",
+              "name": "Twitter"
+            },
+            {
+              "icon": "website",
+              "link": "http://www.app-logik.de",
+              "name": "Website"
+            }
+          ],
+          "title": "Web & Mobile Developer"
+        },
+        {
+          "name": "Frederik Schweiger",
+          "photoUrl": "/images/people/FrederikSchweiger.jpg",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/+FrederikSchweiger",
+              "name": "G+"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://www.twitter.com/flschweiger",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/flschweiger",
+              "name": "gitHub"
+            },
+            {
+              "icon": "website",
+              "link": "http://frederik.link",
+              "name": "Website"
+            }
+          ],
+          "title": "Android Developer"
+        }
+      ]
+    }
+  ],
+  "tickets": {
+    "url": "https://www.eventbrite.de/e/gdgdus-devfest2016-weekend-tickets-27623283986",
+    "elements": [
+      {
+        "name": "two-day-conference-pass",
+        "price": 10,
+        "currency": "€",
+        "starts": "two-day-conference-pass-starts",
+        "ends": "two-day-conference-pass-ends",
+        "soldOut": false
+      }
+    ]
+  },
+}

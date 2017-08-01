@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #ED1B24;">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>gdg_dus_logo_2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="102.077 0.1749 102.077 104.7949 0.1374 104.7949 0.1374 0.1749 102.077 0.1749"></polygon>
+        <polygon id="path-3" points="1.71677993e-15 51.5962 1.71677993e-15 0.3962 51.2006 0.3962 51.2006 51.5962 0 51.5962"></polygon>
+        <polygon id="path-5" points="1.71677993e-15 51.9966 1.71677993e-15 0.7966 51.2006 0.7966 51.2006 51.9966 0 51.9966"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gdg_dus_logo_2">
+            <g id="Page-1" transform="translate(150.000000, 60.000000)">
+                <g id="Group-35" transform="translate(274.000000, 0.402000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-34"></g>
+                </g>
+                <g id="Group" transform="translate(0.000000, 68.000000)">
+                    <polygon id="Fill-21" fill="#BCBCBC" points="169.4996 204.5404 148.2396 167.7604 97.2016 256.0004 140.8996 256.0004 170.0796 205.5404"></polygon>
+                    <polygon id="Fill-23" fill="#2A57C6" points="125.2398 128.0004 148.2398 167.7604 97.1998 256.0004 51.1998 256.0004"></polygon>
+                    <polygon id="Fill-25" fill="#FFFFFF" points="97.2006 0.0004 51.2006 0.0004 170.0786 205.5404 193.0606 165.8004 193.0786 165.7604"></polygon>
+                    <path d="M207.98,140.0004 C212.28,132.5804 212.28,123.4204 207.98,116.0004 L140.9,0.0004 L97.2,0.0004 L193.08,165.7604 L207.98,140.0004 Z" id="Fill-27" fill="#2A57C6"></path>
+                    <g id="Group-38" transform="translate(0.000000, 50.804000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-37"></g>
+                        <path d="M51.2006,25.9962 C51.2006,40.1342 39.7386,51.5962 25.5986,51.5962 C11.4626,51.5962 -0.0014,40.1342 -0.0014,25.9962 C-0.0014,11.8582 11.4626,0.3962 25.5986,0.3962 C39.7386,0.3962 51.2006,11.8582 51.2006,25.9962" id="Fill-36" fill="#FFFFFF" mask="url(#mask-4)"></path>
+                    </g>
+                    <g id="Group-41" transform="translate(0.000000, 152.804000)">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <g id="Clip-40"></g>
+                        <path d="M51.2006,26.3966 C51.2006,40.5346 39.7386,51.9966 25.5986,51.9966 C11.4626,51.9966 -0.0014,40.5346 -0.0014,26.3966 C-0.0014,12.2586 11.4626,0.7966 25.5986,0.7966 C39.7386,0.7966 51.2006,12.2586 51.2006,26.3966" id="Fill-39" fill="#FFFFFF" mask="url(#mask-6)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
