@@ -22,6 +22,6 @@ deploy:
   skip_cleanup: true
   on:
     branch: master
-  project: hoverboard-master
+  project: gdgdus-5c6dc
   token:
     secure: "qcxCpQMWG/B40x62Wsws/XrC+etHuT6Gbs4x7mURwl6EBWtMmiuxQKFOK1DblVZQG/1kuw4bp74FDv45j07SNmvm+YanNOGLRUT8kzLqoa7x2Hn/YhfMzcQAo8VlP+c3tVCDu07f41iKJE+S1xdommnT+SfOSNt95JPfD6sOGNp3iA69dvetn869C6wPFTLLIEiSxzJa7NLEnJF7jl2imO5uhKK+9AkMe5X2PWSPibbM3BcMYOIznHtyNLpelyE/XwaN98McdlBCVvIWgtvHkur2AdI/OVTmiSai2/Rt+CdElSl4KCmMAR1BvMX/Kyl3YSYyZnVCXyZvJIisjNEjPhNJwJ+eq+Sup48kpPXzsEQ7VptNr2jEwjkU9wLo+Yq0rWoFdnhcqNdm3MQ/VibI3gndji+edYVl341ZqzVALTYnHObsvIBkATWiKFiX/QHjQqQJ0/LhVROw9bJYXMY8VbTSdvAdFcC0nSqlkaZ960l6KlgOFrYlusJZbFX1EL0ZJtmXRA2s5LSTkiSMXxLaLFDd9NotZCYK47ubI3QbdLMdEvWeR8J0Lkpu6npaMd7uYL5BNyPQ+kk0ZyE+pkv7dWhEHMDKiyEKSrENV5MJLd9J4G07bt0TPObM8gJpL7xd4F56XMPEt6NHxrmfV4rK5nNl86u1Nu6D4MlCSFUOU+M="
