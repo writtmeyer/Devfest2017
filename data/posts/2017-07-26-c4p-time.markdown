@@ -4,12 +4,12 @@ It's a developer conference dealing delving into all kind of Google technology.
 
 Some topics you can expect talks about:
 
-Google Cloud
-Tensorflow and other artificial intelligence solutions
-Android
-Android Things
-Google Assistant & Google Home
-Angular, Polymer and Progressive Web Apps
+* Google Cloud
+* Tensorflow and other artificial intelligence solutions
+* Android
+* Android Things
+* Google Assistant & Google Home
+* Angular, Polymer and Progressive Web Apps
 
 All in all we expect more than twenty talks.
 
